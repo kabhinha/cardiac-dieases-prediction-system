@@ -29,11 +29,6 @@ To get started with the Cardiac Prediction System, follow these steps:
 - **Model Training**: Train the machine learning model using the provided scripts and data.
 - **Predictions**: Utilize the trained model to make predictions on new data and assess cardiac health outcomes.
 
-## Contributors
-
-- [John Doe](https://github.com/johndoe)
-- [Jane Smith](https://github.com/janesmith)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify it as per your requirements.
